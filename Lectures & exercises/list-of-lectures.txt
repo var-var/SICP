@@ -1,0 +1,9 @@
+Lecture 1: Syntax of Scheme, procedural abstraction, and recursion 
+Lecture 2: Data abstractions, higher order procedures, symbols, and quotation
+Lecture 3: Mutation, and the environment model
+Lecture 4: Interpretation and evaluation
+Lecture 5: Debugging
+Lecture 6: Language design and implementation 
+Lecture 7: Continuations, lazy evaluation, and streams
+Lecture 8: Concurrency, Garbage Collection, 6.001 in perspective, and the Lambda Calculus
+Concurrency
